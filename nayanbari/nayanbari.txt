@@ -1,0 +1,9 @@
+Session 1
+
+1. Clone the repo
+2. Create a folder and make on txt fiel in it.
+3. Then run "$ git add ." to add all files.
+4. Create a branch using "$ git branch nayanbari".
+5. Come to 'nayanbari branch' using "$git chechout nayanbari".
+6. Commit the files using "$ git commit -m "Task-1"".
+7. Push the fiels using "$ git push origin nayanbari".
